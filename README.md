@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python and Machine Learning
+- 🔭 I’m currently working on Data Analytics Projects
+- 📫 How to reach me: rupeibe82@gmail.com
+
 <!--
 **rupeibe/rupeibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
